@@ -21,6 +21,12 @@ helping them discover events, programs, and growth opportunities.
 - CSS
 - JavaScript
 
+## 📸 Preview
+![Website Preview](assets/home.png)
+
+
+
+
 ##  How to Run
 1. Clone the repository
 2. Open `index.html` in your browser
