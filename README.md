@@ -24,6 +24,9 @@ helping them discover events, programs, and growth opportunities.
 ## 📸 Preview
 ![Website Preview](assets/home.png)
 
+## 🔗 Live Demo
+https://ssnehatiwari21.github.io/WomenTechmaker-Resource-Hub/
+
 
 
 
